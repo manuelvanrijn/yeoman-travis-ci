@@ -1,0 +1,19 @@
+{
+  "name": "yeoman-travis-ci",
+  "description": "yeoman example app to test with Travis CI",
+  "author": {
+    "name": "Manuel van Rijn",
+    "email": "manuel@manuelles.nl"
+  },
+  "homepage": "https://github.com/manuelvanrijn/yeoman-travis-ci",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manuelvanrijn/yeoman-travis-ci.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manuelvanrijn/yeoman-travis-ci/issues"
+  },
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {}
+}
