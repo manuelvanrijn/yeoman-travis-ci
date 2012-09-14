@@ -15,5 +15,10 @@
   },
   "version": "0.0.1",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "yeoman": "~0.9.1"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/yeoman test --verbose"
+  }
 }
